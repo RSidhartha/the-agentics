@@ -1,0 +1,7 @@
+Small data‑science teams can boost productivity by offloading repetitive tasks to AI agents. A code‑completion “copilot” can finish lines, suggest fixes, and spot bugs. Benchmarks show it reduces notebook‑writing time by 30‑50 % and a four‑person fintech startup delivered prototypes 2–3 weeks faster after adoption. **[source needed]**
+
+LLM‑powered agents can generate an exploratory‑data‑analysis (EDA) report in seconds. Tools such as Pandas‑AI and OpenAI’s Chat‑Data produce summary tables, charts, and missing‑value suggestions with >85 % accuracy versus manual analysis, letting an analyst move from data loading to model building almost immediately. **[source needed]**
+
+Agentic workflow frameworks like LangChain or Auto‑GPT can orchestrate end‑to‑end pipelines—data cleaning, model training, evaluation, and deployment—without a dedicated DevOps engineer. They run the steps on cloud resources and can auto‑select spot or serverless instances, a practice that cut compute costs by ≈60 % for a six‑person consultancy.  
+
+Emerging agents also audit models for bias, data drift, and regulatory compliance. Early health‑tech users report that these agents flag 2–3 high‑risk issues per model that would otherwise be missed.
